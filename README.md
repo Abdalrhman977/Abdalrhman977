@@ -1,11 +1,13 @@
 # Hi, I'm Abdalrhman Ahmed 👋
 
-**Aspiring Systems Administrator / IT Support Engineer** building real infrastructure in a home lab
-and documenting every step: what I built, how I verified it, and what broke along the way.
+**Systems & Infrastructure Specialist** with 4 years of hands-on IT across multi-site environments:
+a restaurant group with 16 branches, HQ, a factory and a warehouse, and before that a financial trading firm.
+On the side I rebuild infrastructure from scratch in a home lab and document what I built, how I verified it, and what broke.
 
-- 🔧 Currently building: **Active Directory lab** (Windows Server 2022, DNS, DHCP, file shares, GPOs)
-- 📚 Learning next: Group Policy, backups, a second DC, networking, Linux, Azure
-- 🎯 Looking for: IT Support / Junior Sysadmin / Helpdesk roles
+- 💼 Now: **IT Specialist @ Burger Republic**: Windows Server, Active Directory, Linux, branch networking, POS/ERP support, PowerShell/Python automation
+- 🔧 Lab: **Active Directory build** (Windows Server 2022, DNS, DHCP, file shares, GPOs)
+- 📚 Studying: **AZ-104** (Azure Administrator)
+- 🎯 Open to: Systems Administrator / Infrastructure roles, on-site, hybrid or remote
 - 📍 Cairo, Egypt
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abdalrhman-ahmed-a17a48238/)
 
@@ -31,12 +33,12 @@ Hands-on labs in VMware Workstation with screenshots, verification and troublesh
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-**Core:** AD DS · DNS · DHCP · OU design · Users & groups · Share/NTFS permissions · Domain join · PowerShell scripting · Troubleshooting (dcdiag, nslookup, Event Viewer)
+**Core:** AD DS · DNS · DHCP · OU design · Share/NTFS permissions · Branch networking (routers, PoE, IP cameras/NVR) · POS/ERP support · PowerShell & Python automation · Troubleshooting (dcdiag, nslookup, Event Viewer)
 
 ### 📜 Training
-Completed at **IT Gate Academy** (2021):
-- MCSA track: Windows Server administration
-- CCNA Cyber Ops track: routing, switching, security operations
-- Linux Essentials
+- **IT Gate Academy** (2021): MCSA track (Windows Server), CCNA Cyber Ops track, Linux Essentials
+- **OSCP and CEH** coursework · practising offensive security on Hack The Box
+- **AZ-104** Azure Administrator: in progress
