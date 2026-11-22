@@ -18,7 +18,7 @@ Hands-on labs in VMware Workstation with screenshots, verification and troublesh
 
 | Lab | Highlights | Status |
 |---|---|---|
-| [Active Directory](https://github.com/Abdalrhman977/it-infra-labs/tree/main/01-ad-lab) | New forest `lab.local`, OU design, 15 users + RBAC groups, domain-joined client, DHCP scope, share + NTFS permissions, PowerShell bulk user creation from CSV | ✅ |
+| [Active Directory](https://github.com/Abdalrhman977/it-infra-labs/tree/main/01-ad-lab) | New forest `lab.local`, OU design, 15 users + RBAC groups, domain-joined client, DHCP scope, share + NTFS permissions, PowerShell bulk user creation from CSV | Done ✅ |
 | Networking | Subnetting, VLANs, routing | 🛠️ Planned |
 | Wireshark | Packet analysis (DHCP, DNS, ARP, TCP) | 🛠️ Planned |
 | Linux | Users, permissions, services, SSH | 🛠️ Planned |
