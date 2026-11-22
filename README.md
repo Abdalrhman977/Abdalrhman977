@@ -1,6 +1,6 @@
 # Hi, I'm Abdalrhman Ahmed 👋
 
-**Systems & Infrastructure Specialist** with 4 years of hands-on IT across multi-site environments:
+**Systems & Infrastructure Specialist** with 3+ years of hands-on IT across multi-site environments:
 a restaurant group with 16 branches, HQ, a factory and a warehouse, and before that a financial trading firm.
 On the side I rebuild infrastructure from scratch in a home lab and document what I built, how I verified it, and what broke.
 
